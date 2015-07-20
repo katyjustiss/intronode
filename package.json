@@ -1,0 +1,24 @@
+{
+  "name": "intronode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katyjustiss/intronode.git"
+  },
+  "author": "Katy Justiss <katy.justiss@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katyjustiss/intronode/issues"
+  },
+  "homepage": "https://github.com/katyjustiss/intronode#readme",
+  "dependencies": {
+    "csvtojson": "^0.4.1",
+    "prompt": "^0.2.14",
+    "yargs": "^3.15.0"
+  }
+}
